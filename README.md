@@ -6,3 +6,5 @@ Literatura consultada Professional C++ de Marc Gregoire y ChatGPT.
 01 Class Definition
 
 02 Class Method Definitions
+
+03 Non-type Template Parameters
