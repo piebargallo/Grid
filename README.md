@@ -12,3 +12,5 @@ Literatura consultada Professional C++ de Marc Gregoire y ChatGPT.
 04 Default Values for Type Parameters
 
 05 Method Templates
+
+06 Class Template Specialization
