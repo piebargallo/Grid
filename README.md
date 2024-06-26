@@ -14,3 +14,5 @@ Literatura consultada Professional C++ de Marc Gregoire y ChatGPT.
 05 Method Templates
 
 06 Class Template Specialization
+
+07 Grid Template Container
