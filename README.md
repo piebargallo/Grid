@@ -20,3 +20,7 @@ Literatura consultada Professional C++ de Marc Gregoire y ChatGPT.
 08 Template Template Parameters
 
 09 Non-Type Template Parameters
+
+10 Grid Partial String
+
+11 Grid Partial Pointer
