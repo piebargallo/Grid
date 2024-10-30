@@ -24,3 +24,7 @@ Literatura consultada Professional C++ de Marc Gregoire y ChatGPT.
 10 Grid Partial String
 
 11 Grid Partial Pointer
+
+12 GridDefaultElementValue
+
+13 GridDefaultElementValueRef
